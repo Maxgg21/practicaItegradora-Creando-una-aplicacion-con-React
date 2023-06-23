@@ -3,9 +3,9 @@ import logo from '../assets/images/logo-DH.png'
 
 function Encabezado () {
     return (
-        <header class="encabezado">
+        <header className="encabezado">
             <nav id="logo">
-                <a href={logo}><img src="img/logo-DH.png" alt="Logo Digital House"/></a>
+                <a href='#'><img src={logo} alt="Logo Digital House"/></a>
             </nav>
             <nav id="opciones">
                 <ul>
