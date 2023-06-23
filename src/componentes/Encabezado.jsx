@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../assets/images/logo-DH.png'
+import logo from '../assets/img/logo-DH.png'
 
 function Encabezado () {
     return (
